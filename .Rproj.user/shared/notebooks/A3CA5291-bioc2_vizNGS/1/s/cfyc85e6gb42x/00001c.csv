@@ -1,0 +1,5 @@
+"0","library(org.Dm.eg.db)"
+"0","map = select(org.Dm.eg.db, keys=""lgs"", keytype=""SYMBOL"", columns=c(""ENTREZID"", ""ENSEMBL""))"
+"2","'select()' returned 1:1 mapping between keys and columns
+"
+"0","map"

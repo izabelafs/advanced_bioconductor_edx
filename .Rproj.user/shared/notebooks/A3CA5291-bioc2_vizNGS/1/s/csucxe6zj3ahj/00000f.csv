@@ -1,0 +1,24 @@
+"0","#BiocManager::install(""Gviz"")"
+"0","library(Gviz)"
+"2","Loading required package: grid
+"
+"2","
+Attaching package: ‘grid’
+
+"
+"2","The following object is masked from ‘package:Biostrings’:
+
+    pattern
+
+"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"0","gtrack <- GenomeAxisTrack()"
+"0","atrack <- AnnotationTrack(gene, name = ""Gene Model"")"
+"0","plotTracks(list(gtrack, atrack))"

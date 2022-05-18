@@ -1,0 +1,5 @@
+"0","library(Homo.sapiens)"
+"0","eid = select(Homo.sapiens, keys=""ESRRA"", keytype=""SYMBOL"", columns=""ENTREZID"")"
+"2","'select()' returned 1:1 mapping between keys and columns
+"
+"0","eid"

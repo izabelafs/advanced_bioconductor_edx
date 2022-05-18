@@ -1,0 +1,12 @@
+"0","allg = genes(txdb)"
+"2","  403 genes were dropped because they have exons located on both strands of the same reference sequence or
+  on more than one reference sequence, so cannot be represented by a single genomic range.
+  Use 'single.strand.genes.only=FALSE' to get all the genes in a GRangesList object, or use
+  suppressMessages() to suppress this message.
+"
+"0","esrraAddr = genes(txdb, filter=list(gene_id=2101)) # redundant..."
+"0","esrraNeigh = subsetByOverlaps(allg, esrraAddr+500000)"
+"0","esrraNeigh$symbol = mapIds(Homo.sapiens, keys=esrraNeigh$gene_id, keytype=""ENTREZID"","
+"0","  column=""SYMBOL"")"
+"2","'select()' returned 1:1 mapping between keys and columns
+"

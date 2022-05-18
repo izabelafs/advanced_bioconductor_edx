@@ -1,0 +1,56 @@
+"0","curd = getwd()"
+"0","kk = dir.create(tmpd <- tempfile()) # always new"
+"0","setwd(tmpd)"
+"2","Warning:"
+"2"," The working directory was changed to /private/var/folders/6g/vld6fynn33zbx0cdj4v5_m38szfdms/T/Rtmp7VTkcZ/file142850a6efca inside a notebook chunk. The working directory will be reset when the chunk is finished running. Use the knitr root.dir option in the setup chunk to change the working directory for notebook chunks.
+"
+"0","library(usethis)"
+"0","create_package(""erbsViz"", list(Imports=""ggbio"","
+"0","    Description=""Juxtapose ESRRA binding and gene models"","
+"0","    Title=""demonstration package""))"
+"1","[32m✓[39m Creating [34m'erbsViz/'[39m
+"
+"1","[32m✓[39m Setting active project to [34m'/private/var/folders/6g/vld6fynn33zbx0cdj4v5_m38szfdms/T/Rtmp7VTkcZ/file142850a6efca/erbsViz'[39m
+"
+"1","[32m✓[39m Creating [34m'R/'[39m
+"
+"1","[32m✓[39m Writing [34m'DESCRIPTION'[39m
+"
+"1","[34mPackage[39m: erbsViz
+[34mTitle[39m: demonstration package
+[34mVersion[39m: 0.0.0.9000
+[34mAuthors@R[39m (parsed):
+    * First Last <first.last@example.com> [aut, cre] (YOUR-ORCID-ID)
+[34mDescription[39m: [31mJuxtapose ESRRA binding and gene models[39m
+[34mLicense[39m: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+[34mImports[39m:
+    ggbio
+[34mEncoding[39m: UTF-8
+[34mRoxygen[39m: list(markdown = TRUE)
+[34mRoxygenNote[39m: 7.1.2"
+"1",""
+"1","
+"
+"1","[32m✓[39m Writing [34m'NAMESPACE'[39m
+"
+"1","[32m✓[39m Writing [34m'erbsViz.Rproj'[39m
+"
+"1","[32m✓[39m Adding [34m'^erbsViz\\.Rproj$'[39m to [34m'.Rbuildignore'[39m
+"
+"1","[32m✓[39m Adding [34m'.Rproj.user'[39m to [34m'.gitignore'[39m
+"
+"1","[32m✓[39m Adding [34m'^\\.Rproj\\.user$'[39m to [34m'.Rbuildignore'[39m
+"
+"1","[32m✓[39m Opening [34m'/private/var/folders/6g/vld6fynn33zbx0cdj4v5_m38szfdms/T/Rtmp7VTkcZ/file142850a6efca/erbsViz/'[39m in new RStudio session
+"
+"1","[32m✓[39m Setting active project to [34m'<no active project>'[39m
+"
+"0","setwd(""erbsViz"")"
+"0","usethis::use_package(""ERBS"")    # add ERBS to the Imports field"
+"1","[32m✓[39m Setting active project to [34m'/private/var/folders/6g/vld6fynn33zbx0cdj4v5_m38szfdms/T/Rtmp7VTkcZ/file142850a6efca/erbsViz'[39m
+"
+"1","[32m✓[39m Adding [34m'ERBS'[39m to [32mImports[39m field in DESCRIPTION
+"
+"1","[31m•[39m Refer to functions with [90m`ERBS::fun()`[39m
+"

@@ -1,0 +1,2 @@
+"0","rg <- range(gene)"
+"0","plot(c(start(rg), end(rg)), c(0,0), type=""n"", xlab=seqnames(gene)[1], ylab="""")"

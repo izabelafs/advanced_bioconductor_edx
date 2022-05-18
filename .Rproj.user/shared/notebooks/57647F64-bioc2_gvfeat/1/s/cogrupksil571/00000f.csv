@@ -1,0 +1,4 @@
+"0","plotTracks(list(idxTrack, GenomeAxisTrack(), "
+"0","   DataTrack(sc[,7], name=""ESRRA peak values""), "
+"0","   GeneRegionTrack(esrraNeigh, showId=TRUE,"
+"0","         name=""genes near ESRRA""), GenomeAxisTrack()))"

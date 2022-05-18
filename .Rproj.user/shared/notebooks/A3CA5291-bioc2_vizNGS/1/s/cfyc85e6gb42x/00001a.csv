@@ -1,0 +1,5 @@
+"0","map <- getBM(mart = m,"
+"0"," attributes = c(""ensembl_gene_id"", ""flybasename_gene""),"
+"0"," filters = ""flybasename_gene"","
+"0"," values = ""lgs"")"
+"0","map"

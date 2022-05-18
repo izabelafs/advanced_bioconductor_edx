@@ -1,0 +1,21 @@
+"0","#BiocManager::install(""ggbio"")"
+"0","library(ggbio)"
+"2","Loading required package: ggplot2
+"
+"2","Registered S3 method overwritten by 'GGally':
+  method from   
+  +.gg   ggplot2
+"
+"2","Need specific help about ggbio? try mailing 
+ the maintainer or visit https://lawremi.github.io/ggbio/
+"
+"2","
+Attaching package: 'ggbio'
+
+"
+"2","The following objects are masked from 'package:ggplot2':
+
+    geom_bar, geom_rect, geom_segment, ggsave, stat_bin, stat_identity, xlim
+
+"
+"0","autoplot(gene)"

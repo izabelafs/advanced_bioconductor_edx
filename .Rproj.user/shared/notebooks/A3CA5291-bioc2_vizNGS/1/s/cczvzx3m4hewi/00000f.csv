@@ -1,0 +1,62 @@
+"0","#BiocManager::install(""pasillaBamSubset"")"
+"0","#BiocManager::install(""TxDb.Dmelanogaster.UCSC.dm3.ensGene"")"
+"0","#BiocManager::install(""org.Dm.eg.db"")"
+"0","library(pasillaBamSubset)"
+"0","library(TxDb.Dmelanogaster.UCSC.dm3.ensGene)"
+"2","Loading required package: GenomicFeatures
+"
+"2","Loading required package: BiocGenerics
+"
+"2","
+Attaching package: ‘BiocGenerics’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    anyDuplicated, append, as.data.frame, basename, cbind, colnames, dirname, do.call, duplicated, eval,
+    evalq, Filter, Find, get, grep, grepl, intersect, is.unsorted, lapply, Map, mapply, match, mget,
+    order, paste, pmax, pmax.int, pmin, pmin.int, Position, rank, rbind, Reduce, rownames, sapply,
+    setdiff, sort, table, tapply, union, unique, unsplit, which.max, which.min
+
+"
+"2","Loading required package: S4Vectors
+"
+"2","Loading required package: stats4
+"
+"2","
+Attaching package: ‘S4Vectors’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    expand.grid, I, unname
+
+"
+"2","Loading required package: IRanges
+"
+"2","Loading required package: GenomeInfoDb
+"
+"2","Loading required package: GenomicRanges
+"
+"2","Loading required package: AnnotationDbi
+"
+"2","Loading required package: Biobase
+"
+"2","Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with 'browseVignettes()'. To cite Bioconductor, see
+    'citation(""Biobase"")', and for packages 'citation(""pkgname"")'.
+
+"
+"2","Registered S3 methods overwritten by 'dbplyr':
+  method         from
+  print.tbl_lazy     
+  print.tbl_sql      
+"
+"0","fl1 <- untreated1_chr4()"
+"0","fl2 <- untreated3_chr4()"

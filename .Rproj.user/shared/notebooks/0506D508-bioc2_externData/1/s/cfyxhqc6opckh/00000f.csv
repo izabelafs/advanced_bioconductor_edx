@@ -1,0 +1,5 @@
+"0","library(h5vc)"
+"0","library(rhdf5)"
+"0","tallyFile <- system.file( ""extdata"", ""example.tally.hfs5"", "
+"0","    package = ""h5vcData"")"
+"0","h5ls(tallyFile)"

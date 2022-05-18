@@ -1,0 +1,19 @@
+"0","library(OrganismDbi)"
+"0","gd = list( join1 = c(GO.db=""GOID"", org.Sc.sgd.db=""GO""),"
+"0","           join2 = c(org.Sc.sgd.db=""ENTREZID"","
+"0","              TxDb.Scerevisiae.UCSC.sacCer3.sgdGene=""GENEID""))"
+"0","if (!file.exists(""Sac.cer3"")) # don't do twice..."
+"0","makeOrganismPackage(pkgname=""Sac.cer3"",  # simplify typing!"
+"0","  graphData=gd, organism=""Saccharomyces cerevisiae"","
+"0","  version=""1.0.0"", maintainer=""Student <ph525x@harvardx.edu>"","
+"0","  author=""Student <ph525x@harvardx.edu>"","
+"0","  destDir=""."","
+"0","  license=""Artistic-2.0"")"
+"2","'getOption(""repos"")' replaces Bioconductor standard repositories, see '?repositories' for details
+
+replacement repositories:
+    CRAN: https://cran.rstudio.com
+
+"
+"2","Error in FUN(X[[i]], ...) : there is no package called 'org.Sc.sgd.db'
+"

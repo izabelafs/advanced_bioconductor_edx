@@ -1,0 +1,38 @@
+"0","library(GenomicAlignments)"
+"2","Loading required package: SummarizedExperiment
+"
+"2","Loading required package: MatrixGenerics
+"
+"2","Loading required package: matrixStats
+"
+"2","
+Attaching package: ‘matrixStats’
+
+"
+"2","The following objects are masked from ‘package:Biobase’:
+
+    anyMissing, rowMedians
+
+"
+"2","
+Attaching package: ‘MatrixGenerics’
+
+"
+"2","The following objects are masked from ‘package:matrixStats’:
+
+    colAlls, colAnyNAs, colAnys, colAvgsPerRowSet, colCollapse, colCounts, colCummaxs, colCummins,
+    colCumprods, colCumsums, colDiffs, colIQRDiffs, colIQRs, colLogSumExps, colMadDiffs, colMads,
+    colMaxs, colMeans2, colMedians, colMins, colOrderStats, colProds, colQuantiles, colRanges, colRanks,
+    colSdDiffs, colSds, colSums2, colTabulates, colVarDiffs, colVars, colWeightedMads, colWeightedMeans,
+    colWeightedMedians, colWeightedSds, colWeightedVars, rowAlls, rowAnyNAs, rowAnys, rowAvgsPerColSet,
+    rowCollapse, rowCounts, rowCummaxs, rowCummins, rowCumprods, rowCumsums, rowDiffs, rowIQRDiffs,
+    rowIQRs, rowLogSumExps, rowMadDiffs, rowMads, rowMaxs, rowMeans2, rowMedians, rowMins, rowOrderStats,
+    rowProds, rowQuantiles, rowRanges, rowRanks, rowSdDiffs, rowSds, rowSums2, rowTabulates, rowVarDiffs,
+    rowVars, rowWeightedMads, rowWeightedMeans, rowWeightedMedians, rowWeightedSds, rowWeightedVars
+
+"
+"2","The following object is masked from ‘package:Biobase’:
+
+    rowMedians
+
+"

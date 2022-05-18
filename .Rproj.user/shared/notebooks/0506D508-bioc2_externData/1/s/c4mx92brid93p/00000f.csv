@@ -1,0 +1,1 @@
+"0","dbGetQuery( GO.db$conn, ""select * from go_term limit 5"")"

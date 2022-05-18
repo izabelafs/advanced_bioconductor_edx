@@ -1,0 +1,3 @@
+"0","arrows(start(gene),rep(0,length(gene)),"
+"0","       end(gene),rep(0,length(gene)),"
+"0","       lwd=3, length=.1)"

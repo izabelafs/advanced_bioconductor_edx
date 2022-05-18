@@ -1,0 +1,4 @@
+"0","library(biomaRt)"
+"0","m <- useMart(""ensembl"", dataset = ""dmelanogaster_gene_ensembl"")"
+"0","lf <- listFilters(m)"
+"0","lf[grep(""name"", lf$description, ignore.case=TRUE),]"

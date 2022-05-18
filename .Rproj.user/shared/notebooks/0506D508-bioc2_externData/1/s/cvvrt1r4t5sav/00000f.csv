@@ -1,0 +1,10 @@
+"0","library(Rsamtools)"
+"0","library(rtracklayer)"
+"0","targ = import.bedGraph(""bcell.narrowPeak.gz"", which=GRanges(""chr22"", IRanges(1,2e7)))"
+"2","Warning in open.connection(con, open) :"
+"2","
+ "
+"2"," cannot open compressed file 'bcell.narrowPeak.gz', probable reason 'No such file or directory'
+"
+"2","Error in open.connection(con, open) : cannot open the connection
+"

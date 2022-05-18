@@ -1,0 +1,5 @@
+"0","library(knitr)"
+"0","opts_chunk$set(fig.path=paste0(""figure/"", sub(""(.*).Rmd"",""\\1"",basename(knitr:::knit_concord$get('infile'))), ""-""))"
+"2","Error in h(simpleError(msg, call)) : 
+  error in evaluating the argument 'x' in selecting a method for function 'sub': a character vector argument expected
+"

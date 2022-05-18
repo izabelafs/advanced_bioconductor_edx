@@ -1,0 +1,8 @@
+"0","library(ERBS)"
+"0","juxta(""chr22"", main=""ESRRA binding peaks on chr22"")"
+"2","Warning:"
+"2"," Not a validObject(): no slot of name ""elementType"" for this object of class ""GRanges""
+"
+"2","Warning:"
+"2"," Not a validObject(): no slot of name ""elementType"" for this object of class ""GRanges""
+"

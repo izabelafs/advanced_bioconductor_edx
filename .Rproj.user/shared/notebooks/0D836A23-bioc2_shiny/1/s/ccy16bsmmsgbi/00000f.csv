@@ -1,0 +1,120 @@
+"0","library(ph525x)"
+"0","dfHclust(mtcars)"
+"2","
+Listening on http://127.0.0.1:5718
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"
+"2","Warning:"
+"2"," Error in hclust: NA/NaN/Inf in foreign function call (arg 10)
+"
+"2","  [No stack trace available]
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"
+"2","Warning in min(x) :"
+"2"," no non-missing arguments to min; returning Inf
+"
+"2","Warning in max(x) :"
+"2"," no non-missing arguments to max; returning -Inf
+"
+"2","Warning:"
+"2"," Error in plot.window: need finite 'ylim' values
+"
+"2","  [No stack trace available]
+"

@@ -1,0 +1,4 @@
+"0","y <- readGAlignmentPairs(fl2)"
+"0","ycov <- coverage(y)"
+"0","ynum <- as.numeric(ycov$chr4[ranges(z)])"
+"0","plot(xnum, type=""l"", col=""blue"", lwd=2)"
